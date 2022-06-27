@@ -1,2 +1,4 @@
 # steam_trading
-bot intended to sell massive amount of chosen cs_go boxes on steam
+Bot intended to sell massive amount of chosen items on steam
+
+IN PROGRESS...
